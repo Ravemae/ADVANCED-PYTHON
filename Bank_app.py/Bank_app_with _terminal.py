@@ -6,7 +6,6 @@ def usr_acc_num():
 
 print("Welcome, what would you like to do")
 print("1. Open Account\n2. Transfer\n3. Airtime\n4. Internet\n5. Balance\n6. BILLS & Utilities") 
-
 res = str(input())
 
 if res == "1":

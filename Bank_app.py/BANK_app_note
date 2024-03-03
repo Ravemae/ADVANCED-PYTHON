@@ -1,13 +1,13 @@
 You can solve this problem by creating a software solution where people can sign up and open a new account in a bank digitally. This way, the person wouldn’t have to visit the bank physically and thus, would save a lot of time and effort. The banking management system can also allow the user to make transactions, deposit and withdraw funds, and check the account balance. 
 
 Your solution would need an admin section which would look after the users’ accounts and the overall wellbeing of the database. You’ll have to connect the software to a database which will store all user information in distinct storage.
+check handbook
 
 how to fork
 how to clone
 how to use codespace
 how you gave us assignment(pass message)
 copy and paste a file that has been modified
-
 
 
 <!-- git clone 'repository link' -->
