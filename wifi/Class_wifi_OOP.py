@@ -46,6 +46,9 @@ class MTN(WiFi):
     def create(self):
         return f"You've created MTN wifi named {self.name}"
 
+MTN4GC1A58 = WiFi("Dont You Dare!", "MTN", "wertyut4", "MiFi")
+print(WiFi.create())
+    
      
 print("You can now create your wifi")
 
@@ -60,8 +63,3 @@ print("You can now create your wifi")
 # else:
 #     print("Invalid Request")
 
-MTN4GC1A58 = WiFi("Dont You Dare!", "MTN", "wertyut4", "MiFi")
-MTN4GC1A58.connect()
-    
-
-        
