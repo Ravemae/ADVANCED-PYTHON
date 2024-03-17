@@ -1,0 +1,6 @@
+from Random import Girl
+
+
+class Lad(Girl):
+    
+

@@ -15,8 +15,10 @@ if res == "1":
     email = str(input("Your email\n>> ")).upper()
     number = str(input("Your Phone Number\n>> ")).upper()
     address = str(input("Your Address\n>> ")).upper()
+    dob = str(input("Your date of birth\n>> "))
+    account_number = usr_acc_num()
            
-print(f"Dear {firstname} {lastname} {other_name}, Your Regisration was Successful.\n Your Account Number is return {usr_acc_num}")
+print(f"Dear {firstname} {lastname} {other_name}, Your Regisration was Successful.\n Your Account Number is{account_number}\nThanks for joining the family")
 
 if res == "2":
     bank = str(input("Select Bank Name\n>>")).upper
